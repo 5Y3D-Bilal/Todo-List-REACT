@@ -1,8 +1,11 @@
-import Todolist from './list';
+// import Todolist from './list';
+import "./index.css"
+import Test from './test';
 function App() {
   return (
     <>
-      <Todolist />
+      {/* <Todolist /> */}
+      <Test />
     </>
   );
 }

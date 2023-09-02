@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+    font-family: 'poppins' , sans-serif;
+}
+
+.boxx:hover{
+    box-shadow: 4px 2px 28px -10px rgba(255, 0, 0, 0.75);       
+}
+
+.pt-30{
+    padding-top: 7.3rem;
+}
